@@ -1,0 +1,15 @@
+:host {
+  display: block;
+  border: 1px solid gray;
+  padding: 10px 10px;
+  border-radius: 10px;
+}
+
+.header {
+  color: blue;
+  border: 1px dashed darkblue;
+}
+
+.footer {
+  color: red;
+}
